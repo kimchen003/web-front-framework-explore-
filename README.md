@@ -2,13 +2,15 @@
 
 ###文件结构
 
->dist   合并压缩目录
->project    项目主目录
->>controlers    页面控制器
->>libs  js库
->>plugin    插件
->>resources 资源
->>>css  样式
->>>images   图片
->>router    路由器
->>template  模板(react)
+>dist   合并压缩目录<br/>
+>project    项目主目录<br/>
+>>controlers    页面控制器<br/>
+>>libs  js库<br/>
+>>plugin    插件<br/>
+>>resources 资源<br/>
+>>>css  样式<br/>
+>>>images   图片<br/>
+>>router    路由器<br/>
+>>template  模板(react)<br/>
+
+
