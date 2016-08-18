@@ -1,6 +1,6 @@
-#前端框架探索
+###前端框架探索
 
-##文件结构
+####文件结构
 * dist   合并压缩目录<br/>
 * project    项目主目录<br/>
     * controlers    页面控制器<br/>
@@ -12,5 +12,4 @@
     * router    路由器<br/>
     * template  模板(react)<br/>
 
-#开心就好:blush:
-
+####开心就好:blush:
